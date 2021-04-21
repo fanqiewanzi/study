@@ -1,0 +1,7 @@
+ad,sda,2.0
+weq,weq,3.0
+r,r,4.0
+re,er,4.0
+sda,dsa,3.0
+er,er,33.0
+tr,tr,4.0
